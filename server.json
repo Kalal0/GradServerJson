@@ -1,4 +1,4 @@
 {
-"python_server":"https://vz82ssc6-8000.euw.devtunnels.ms/analyze_speech/"
+"python_server":"https://vz82ssc6-8000.euw.devtunnels.ms/analyze_speech/",
 "sql_server:":"http://localhost:13900/api"	
 }
