@@ -1,4 +1,6 @@
 {
-"python_server":"https://228d-2a00-5400-e051-dcf8-a04a-983b-a861-1c70.ngrok-free.app/analyze_speech/",
+"python_server":"https://4eac-82-167-106-236.ngrok-free.app/analyze_speech/",
 "sql_server":"http://172.20.10.6:13900/api"	
 }
+
+
